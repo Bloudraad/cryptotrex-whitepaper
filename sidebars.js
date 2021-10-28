@@ -47,7 +47,23 @@ const sidebars = {
     {
       type: 'category',
       label: 'Tokenomics',
-      items: ['tokenomics', 'tokenomics_allocations'],
+      items: [{
+        type: 'doc',
+        label: 'Overview',
+        id:'tokenomics'
+      }, {
+        type: 'category',
+        label: 'Allocations',
+        items:[
+          'allocations_ecosystem',
+          'allocations_development',
+          'allocations_advisors',
+          'allocations_p2e',
+          'allocations_staking',
+          'allocations_private',
+          'allocations_public',
+        ]
+      }],
     },
     {
       type: 'doc',
