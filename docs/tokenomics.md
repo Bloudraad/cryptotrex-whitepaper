@@ -2,27 +2,33 @@
 sidebar_position: 6
 ---
 
-# Tokenomics
+# Overview
 
-The economics of Age of Dinos are based around $FOSSIL tokens.
-$FOSSILE tokens can be obtained through the different faucets or via DEX.
+The main currency of Age of Dinos are $FOSSIL tokens which can be earned by playing the game. $FOSSIL token is an ERC-20 token.
 
-## Sinks
+Our mision with $FOSSIL token is to provide incentives for playing the game as well as providing a main currency of the Dinoverse. Being the main currency, there's multiple ways to use and earn $FOSSIL token.
 
-- Fee for levelling up dinosaurs
-- Fee for dinosaur revival
-- Fee for dinosaur breeding
-- Fee for going on archaeological excavations
-- Fee for trading game assets on marketplace
+### Earning Tokens
+- Battle Rewards
+- Staking (aka Card Rental)
+- Community Events and tournaments
+- Selling Items on the Marketplace
 
-## Faucets
+### Spending Tokens
+- Leveling up Dinosaurs
+- Reviving Dinosaurs
+- Breeding Dinosaurs
+- Archeological Excavations
+- Purchasing Items on the Marketplace
 
-- Battle rewards
-- Selling game assets on marketplace
-- Card rental
-- Genesis Trexes staking
-- Community events and tournaments
+## Token Allocation
 
-## Tokenomy flow
-
-TBC
+| Category         | Total Supply  | % of total supply |
+| ---------------- | ------------- | ----------------- |
+| Ecosystem Fund   | 80 000 000    | 16%               |
+| Development Fund | 70 000 000    | 14%               |
+| Advisors         | 35 000 000    | 7%                |
+| Play to Earn     | 240 000 000   | 48%               |
+| Private Sale     | 15 000 000    | 3%                |
+| Public Sale      | 60 000 000    | 12%               |
+| **Total**        | 500 000 000   | 100%              |
