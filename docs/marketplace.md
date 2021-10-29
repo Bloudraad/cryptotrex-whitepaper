@@ -28,4 +28,4 @@ A player cannot rent cards whose total rental rates exceed 100%.
 
 ## Fees
 
-Purchases of dino cards, eggs, and artifacts are subjected to a 4% on completion of a transaction.
+Purchases of dino cards, eggs, and artifacts are subjected to a 4% fee on completion of a transaction.
