@@ -11,16 +11,20 @@ Play area will be divided into 2 sides on which each player can deploy their din
 The deployed dino will automatically move toward the nearest possible target to attack and move on to the next one once the previous one has been defeated.
 To deploy a dino, players must use meat points (think mana) which replenish over time with the maximum cap of 10.
 
-## PvBot
+## PvE
 
 Players can go on expedition to find wild dino nests to attack.
 There will be multiple nests that can be found on the map when players start an expedition.
 If the player choose to attack a nest, a battle will begin with potential rewards as below
 
-| Outcome | $FOSSIL                                                        | Artifact       |
-| ------- | -------------------------------------------------------------- | -------------- |
-| Win     | 1 to 10 based on a quadratic function of opponent's deck score | 1 random piece |
-| Loss    | 0                                                              | None           |
+| Outcome | $FOSSIL                                                             | Artifact       |
+| ------- | ------------------------------------------------------------------- | -------------- |
+| Win     | dynamic value based on opponent's deck score and circulating tokens | 1 random piece |
+| Loss    | 0                                                                   | None           |
+
+Battle rewards per win will be based on multiple factors:
+- Thresholding Mechanism, see [here](./allocations_p2e#thresholding-mechanism)
+- Opponent's Deck score, the harder the opponent is, the bigger rewards you get
 
 ## PvP
 

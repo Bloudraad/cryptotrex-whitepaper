@@ -59,7 +59,6 @@ const sidebars = {
           'allocations_development',
           'allocations_advisors',
           'allocations_p2e',
-          'allocations_staking',
           'allocations_private',
           'allocations_public',
         ]

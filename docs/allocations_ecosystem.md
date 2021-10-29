@@ -5,9 +5,9 @@ sidebar_position: 6
 # Ecosystem Fund
 
 
-| Tokens Allocated      | % of Max Supply |
-| ----------- | ----------- |
-| 75 000 000      | 15%       |
+| Tokens Allocated | % of Max Supply |
+| ---------------- | --------------- |
+| 80 000 000       | 16%             |
 
 Ecosystem Fund is allocated for organizing events, and tournaments to help growing the community.
 

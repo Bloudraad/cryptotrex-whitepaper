@@ -7,7 +7,7 @@ sidebar_position: 6
 
 | Tokens Allocated | % of Max Supply |
 | ---------------- | --------------- |
-| 150 000 000      | 30%             |
+| 240 000 000      | 48%             |
 
 30% of $FOSSIL token's max supply will be allocated for Play to Earn rewards. Players will receive some `$FOSSIL` token after completing a battle.
 
@@ -33,17 +33,21 @@ Therefore, we adjust the Halving system to fit our usecase and we name it **Thre
 
 (numbers are not final, just for visualization purposes)
 
-| Tokens in circulation      | Battle Rewards |
-| ----------- | ----------- |
-| 5 000 000      | 5       |
-| 10 000 000      | 2.5       |
-| 20 000 000      | 1.25       |
-| 40 000 000      | 0.75       |
-| 80 000 000      | 0.375       |
-| 160 000 000      | 0.1875       |
-| 320 000 000      | 0.09375       |
-| 500 000 000      | 0.046875       |
+| Tokens in circulation | Battle Rewards |
+| --------------------- | -------------- |
+| 5 000 000             | 5              |
+| 10 000 000            | 2.5            |
+| 20 000 000            | 1.25           |
+| 40 000 000            | 0.75           |
+| 80 000 000            | 0.375          |
+| 160 000 000           | 0.1875         |
+| 320 000 000           | 0.09375        |
+| 500 000 000           | 0.046875       |
 
-This way, if we have 4 million tokens in circulation, players would receive 5 $FOSSIL per win, and if the circulating supply rises to say 6 million tokens, players would get 2.5 $FOSSIL per win. But if a lot of players are suddenly leveling up their Dinosaurs (burning some $FOSSIL) and reducing the circulating supply back to 4.5 million tokens, the rewards per win would be back to 5 $FOSSIL. 
+This way, if we have 4 million tokens in circulation, players would receive 5 $FOSSIL per win, and if the circulating supply rises to say 6 million tokens, players would get 2.5 $FOSSIL per win. But if a lot of players are suddenly leveling up their Dinosaurs (burning some $FOSSIL) and reducing the circulating supply back to 4.5 million tokens, the rewards per win would be back to 5 $FOSSIL.
+
+We designed this mechanism with these things in mind:
+- Inflation Resistance
+- Incentive to the community for spending the tokens
 
 

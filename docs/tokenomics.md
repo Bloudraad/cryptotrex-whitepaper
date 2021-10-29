@@ -10,7 +10,7 @@ Our mision with $FOSSIL token is to provide incentives for playing the game as w
 
 ### Earning Tokens
 - Battle Rewards
-- Genesis Trex Staking
+- Staking (aka Card Rental)
 - Community Events and tournaments
 - Selling Items on the Marketplace
 
@@ -25,11 +25,10 @@ Our mision with $FOSSIL token is to provide incentives for playing the game as w
 
 | Category         | Total Supply  | % of total supply |
 | ---------------- | ------------- | ----------------- |
-| Ecosystem Fund   | 75 000 000    | 15%               |
-| Development Fund | 75 000 000    | 15%               |
-| Advisors         | 50 000 000    | 10%               |
-| Play to Earn     | 150 000 000   | 30%               |
-| Staking Rewards  | 100 000 000   | 20%               |
-| Private Sale     | 25 000 000    | 5%                |
-| Public Sale      | 25 000 000    | 5%                |
+| Ecosystem Fund   | 80 000 000    | 16%               |
+| Development Fund | 70 000 000    | 14%               |
+| Advisors         | 35 000 000    | 7%                |
+| Play to Earn     | 240 000 000   | 48%               |
+| Private Sale     | 15 000 000    | 3%                |
+| Public Sale      | 60 000 000    | 12%               |
 | **Total**        | 500 000 000   | 100%              |
