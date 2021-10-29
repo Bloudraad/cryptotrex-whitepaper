@@ -42,7 +42,7 @@ const config = {
         title: 'Age of Dinos Whitepaper',
         logo: {
           alt: 'Age of Dinos Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
         },
         items: [
           {

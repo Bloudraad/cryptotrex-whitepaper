@@ -36,14 +36,14 @@ Therefore, we adjust the Halving system to fit our usecase. Instead of halving e
 
 | Tokens in circulation | Battle Rewards |
 | --------------------- | -------------- |
-| 5 000 000             | 5              |
-| 10 000 000            | 2.5            |
-| 20 000 000            | 1.25           |
-| 40 000 000            | 0.75           |
-| 80 000 000            | 0.375          |
-| 160 000 000           | 0.1875         |
-| 320 000 000           | 0.09375        |
-| 500 000 000           | 0.046875       |
+| 5,000,000             | 5              |
+| 10,000,000            | 2.5            |
+| 20,000,000            | 1.25           |
+| 40,000,000            | 0.75           |
+| 80,000,000            | 0.375          |
+| 160,000,000           | 0.1875         |
+| 320,000,000           | 0.09375        |
+| 500,000,000           | 0.046875       |
 
 This way, if we have 4 million tokens in circulation, players will receive 5 $FOSSIL per win, and if the circulating supply rises to 6 million tokens, players would get 2.5 $FOSSIL per win.
 But if a lot of players are suddenly leveling up their Dinosaurs (burning some $FOSSIL) and reducing the circulating supply back to 4.5 million tokens, the reward per win would be back to 5 $FOSSIL.
