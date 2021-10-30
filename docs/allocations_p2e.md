@@ -8,11 +8,11 @@ sidebar_position: 6
 | ---------------- | --------------- |
 | 240,000,000      | 48%             |
 
-30% of $FOSSIL tokens max supply will be allocated for Play to Earn rewards. 
+48% of $FOSSIL tokens max supply will be allocated for Play to Earn rewards. 
 Players will receive some `$FOSSIL` tokens after winning a battle.
 
 The reason we chose a limited supply for something that could be played unlimited times is to combat inflation.
-But limiting supply could possibly lead to a situation where rewards becomes 0 when all tokens have already been minted. To overcome this problem, we simply create features that requires burning of `$FOSSIL`.
+But limiting supply could possibly lead to a situation where rewards becomes `0` when all tokens have already been minted. To overcome this problem, we simply create features that requires burning of `$FOSSIL`.
 
 As defined in [Tokenomics Overview](./tokenomics). There are multiple features that require burning your `$FOSSIL`,
 
