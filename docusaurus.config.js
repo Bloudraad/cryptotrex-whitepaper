@@ -72,19 +72,15 @@ const config = {
               },
             ],
           },
-          // {
-          // title: 'More',
-          // items: [
-          //   {
-          //     label: 'Blog',
-          //     to: '/blog',
-          //   },
-          //   {
-          //     label: 'GitHub',
-          //     href: 'https://github.com/facebook/docusaurus',
-          //   },
-          // ],
-          // },
+          {
+            title: 'More',
+            items: [
+              {
+                label: 'OpenSea',
+                to: 'https://opensea.io/collection/cryptotrex',
+              },
+            ],
+          },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Pixel8 Labs. Built with Docusaurus.`,
       },
