@@ -1,5 +1,5 @@
 ---
-sidebar_position: 6
+sidebar_position: 7
 ---
 
 # Overview
@@ -12,7 +12,7 @@ Our mision with $FOSSIL tokens is to provide incentives for playing the game as 
 ### Earning Tokens
 
 - Battle Rewards
-- Staking (aka Card Rental)
+- Card Rental
 - Community Events and Tournaments
 - Selling Items on the Marketplace
 
