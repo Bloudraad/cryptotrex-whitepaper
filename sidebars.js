@@ -45,24 +45,32 @@ const sidebars = {
       id: 'marketplace',
     },
     {
+      type: 'doc',
+      label: 'Staking',
+      id: 'staking',
+    },
+    {
       type: 'category',
       label: 'Tokenomics',
-      items: [{
-        type: 'doc',
-        label: 'Overview',
-        id:'tokenomics'
-      }, {
-        type: 'category',
-        label: 'Allocations',
-        items:[
-          'allocations_ecosystem',
-          'allocations_development',
-          'allocations_advisors',
-          'allocations_p2e',
-          'allocations_private',
-          'allocations_public',
-        ]
-      }],
+      items: [
+        {
+          type: 'doc',
+          label: 'Overview',
+          id: 'tokenomics',
+        },
+        {
+          type: 'category',
+          label: 'Allocations',
+          items: [
+            'allocations_ecosystem',
+            'allocations_development',
+            'allocations_advisors',
+            'allocations_p2e',
+            'allocations_private',
+            'allocations_public',
+          ],
+        },
+      ],
     },
     {
       type: 'doc',
@@ -70,7 +78,6 @@ const sidebars = {
       id: 'team',
     },
   ],
-
 };
 
 module.exports = sidebars;

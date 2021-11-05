@@ -48,6 +48,7 @@ In practice, they are NFT cards that will eventually hatch (be updated) to actua
 
 ### How to obtain
 
+- [Staking](/staking) your Genesis and VX Trexes.
 - Using revive mechanism with [bone artifacts](#artifacts).
 - Using [breeding mechanism](#breeding).
 - Purchasing from other players.
