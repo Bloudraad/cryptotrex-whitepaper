@@ -76,8 +76,12 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'OpenSea',
+                label: 'CryptoTrex Genesis Collection',
                 to: 'https://opensea.io/collection/cryptotrex',
+              },
+              {
+                label: 'Old Collection',
+                to: 'https://opensea.io/collection/cryptotrexold',
               },
             ],
           },
